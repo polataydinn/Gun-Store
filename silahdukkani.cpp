@@ -3,6 +3,7 @@
 using namespace std;
 
 class dukkan{
+// comment here
 protected:
     int id;
     int stok;
